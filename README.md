@@ -23,14 +23,11 @@ I've been learing code 3 years, skill: java, C#, HTML, CSS, JavaScritp, Dart, Fl
 
 <b>My GitHub Stats</b>
 
-<div algin="left">
-<a  href="http://www.github.com/Lexpalinya"><img src="https://github-readme-stats.vercel.app/api?username=Lexpalinya&show_icons=true&hide=&count_private=true&title_color=ef4444&text_color=ffffff&icon_color=ef4444&bg_color=000000&hide_border=true&show_icons=true" alt="Lexpalinya's GitHub stats" /></a>
-
-<a  href="http://www.github.com/Lexpalinya"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Lexpalinya&stroke=ffffff&background=000000&ring=ef4444&fire=ef4444&currStreakNum=ffffff&currStreakLabel=ef4444&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="http://www.github.com/Lexpalinya"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=Lexpalinya&bg_color=000000&color=ffffff&line=ef4444&point=ffffff&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Lexpalinya&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=false&count_private=false&disable_animations=false&theme=dark&locale=en&hide_border=true" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=Lexpalinya&locale=en&mode=daily&theme=dark&hide_border=true&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Lexpalinya&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true" height="150" alt="languages graph"  />
 </div>
-<a href="https://github.com/Lexpalinya" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lexpalinya&langs_count=10&title_color=ef4444&text_color=ffffff&icon_color=ef4444&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 
 
